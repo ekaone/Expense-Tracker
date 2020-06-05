@@ -3,3 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Author
 
 Eka Prasetia 📖 [Blog](https://www.ekaprasetia.com/)
+Social Media [Twitter](https://twitter.com/dannyeka)
+
+## About Expense Tracker
+
+Simple to track your expense that compared with your income
