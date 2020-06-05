@@ -1,9 +1,10 @@
 import React from "react";
-import { CardExpense } from "./components";
+import { CardExpense, CardTransaction } from "./components";
 
 function App() {
   return (
     <>
+      <CardTransaction />
       <CardExpense />
     </>
   );
