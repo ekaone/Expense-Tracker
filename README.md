@@ -2,8 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Author
 
-Eka Prasetia [Blog](https://www.ekaprasetia.com/)
-
 <a href="https://www.ekaprasetia.com/">
   <img src="https://img.shields.io/badge/Eka-Blog-orange" alt="Blog" />
 </a>
@@ -14,4 +12,17 @@ Eka Prasetia [Blog](https://www.ekaprasetia.com/)
 
 ## About Expense Tracker
 
-Simple to track your expense that compared with your income
+Simple to track your expense that compared with your income, you can insert positif and negative (income) expense
+
+## Screenshot
+
+![](./src/assets/expense.png "Expense View")
+
+## Usage
+
+```
+git clone https://github.com/ekaone/Expense-Tracker.git
+cd Expense-Tracker
+npm install
+npm start
+```

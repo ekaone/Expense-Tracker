@@ -1,11 +1,12 @@
 import React from "react";
-import { CardExpense, CardTransaction } from "./components";
+import { ExpenseTracker } from "./views";
+
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
     <>
-      <CardTransaction />
-      <CardExpense />
+      <ExpenseTracker />
     </>
   );
 }
