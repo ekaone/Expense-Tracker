@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Eka Prasetia [Blog](https://www.ekaprasetia.com/)
 
-Social Media [(https://img.shields.io/badge/Eka-Twitter-blue)](https://twitter.com/dannyeka)
+<a href="https://www.ekaprasetia.com/">
+  <img src="https://img.shields.io/badge/Eka-Blog-orange" alt="Blog" />
+</a>
+
+<a href="https://twitter.com/dannyeka">
+  <img src="https://img.shields.io/badge/Eka-Twitter-blue" alt="Twitter" />
+</a>
 
 ## About Expense Tracker
 
