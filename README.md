@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Simple to track your expense that compared with your income, you can insert positif and negative (income) expense
 
+## Demo
+
+💻 Click [Live](https://ekaone.github.io/Expense-Tracker/)
+
 ## Screenshot
 
 ![](./src/assets/expense.png "Expense View")
